@@ -1,4 +1,4 @@
-aaaaaaaa
+
 # dockerfiles-centos-user-adderable
 Centos7, It support base user creation and password setting.
 
